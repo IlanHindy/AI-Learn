@@ -1,0 +1,4 @@
+cd D:\Anaconda\Scripts
+call activate python36
+cd D:\ArtificialIntelligence\Python\PyQtSource\PyQt5_gpl-5.7.1\examples\qtdemo
+python qtdemo

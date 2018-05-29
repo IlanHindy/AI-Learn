@@ -1,0 +1,14 @@
+MainWindow
+RunningDialog
+RunningParametersDialog
+"Chapter2Normalize" NormalizeDialog
+"Chapter2Normalize" AlgorithmDataDesign
+"Chapter2Normalize" NormalizeInput
+"Chapter2Normalize" OrderItemsDialog
+"Chapter2Normalize" OtherFieldsDialog
+"Chapter3Distance Metrics" CharIdentifierInput
+"Chapter3Distance Metrics" CharacterIdentifier
+"Chapter3Distance Metrics" CharacterResolveResult
+PlotDialog
+"Plugins\Widgets" ParametersWidget
+

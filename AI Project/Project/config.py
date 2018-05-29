@@ -1,0 +1,1 @@
+dataDir = "C:\ArtificialIntelligence\ArtificialIntelligence\Python\data"
